@@ -7,7 +7,7 @@ https://www.linkedin.com/in/juliantcoleman/
 
 This project is an R-based analysis of the Cincinnati Bengals' 2024 NFL snap counts using data from [`nflreadr`](https://www.nflverse.com/) and `nflfastR`.
 
-## 📊 What I'm Doing
+## What I'm Doing
 
 I am pulling and summarizing offensive and defensive snap count data for Bengals players in the 2024 NFL season. My goal is to:
 
@@ -16,7 +16,7 @@ I am pulling and summarizing offensive and defensive snap count data for Bengals
 - Identify high-usage players (those playing ≥ 70% of snaps)
 
 
-## 🧠 What I'm Learning
+## What I'm Learning
 
 This project helps me build skills in:
 
@@ -26,12 +26,12 @@ This project helps me build skills in:
 - Joining and filtering datasets
 - Git and GitHub for version control
 
-## 📁 File Structure
+## File Structure
 
 - `bengals_snaps.R`: Main R script for loading, cleaning, and analyzing the data
 - `README.md`: This file
 
-## 🔧 Packages Used
+## Packages Used
 
 ```r
 tidyverse
